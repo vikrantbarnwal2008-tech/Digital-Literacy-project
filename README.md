@@ -25,17 +25,20 @@ digital-literacy-project/
 │   └── Project_Report.pdf  
 │  
 ├── task-1-presentation/  
-│   └── infographic.png  
+│   └── infographic_ss
+|   └── brief_discription.md
 │  
 ├── task-2-portfolio/  
-│   ├── GitHub.png  
-│   ├── LinkedIn.jpg  
-│   └── Kaggle.png  
+│   ├── GitHub_ss
+│   ├── LinkedIn_ss 
+│   └── researchgate_ss
+|   └── reflection_notes.md
 │  
 ├── task-3-platforms/  
 │   ├── Google form and Responses Link.md  
 │   ├── google-form.png  
-│   └── Hackerranker.png  
+│   └── Hackerranker_ss
+|   └── notes.md
 │  
 ├── task-4-email-etiquette/  
 │   ├── email1.pdf  
@@ -61,7 +64,7 @@ Created/updated profiles on:
 
 GitHub  
 LinkedIn  
-Kaggle  
+researchgate 
 ✔ Added screenshots of all profiles  
 ✔ Built a professional digital presence  
 
